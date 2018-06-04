@@ -1,0 +1,13 @@
+{
+  "name": "typescript-bug-redux-form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/redux-form": "~7.2.0",
+    "react": "~16.4.0",
+    "redux-form": "~7.3.0",
+    "typescript": "~2.8.0"
+  }
+}
